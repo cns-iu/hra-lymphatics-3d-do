@@ -2,9 +2,9 @@
  A repo to hold data and code for testing the HRA 3D Digital Object for the axillary lymph nodes. The goal of this repo is to provide instructions for how to simulate working with the 3D Reference Objectfor the axillary lymph node in Blender as a substitute for the Registration User Inteface (RUI), which does not support this particlar 3D model yet. 
 
 # Video
-A video demo of the RUI compares to Blender is provided on [here on YouTube](https://youtu.be/6qZPcQG9gfI): 
+A video demo of the RUI compares to Blender is provided on [YouTube](https://youtu.be/TUZ6bIP2zOA): 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6qZPcQG9gfI/0.jpg)](https://www.youtube.com/watch?v=6qZPcQG9gfI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TUZ6bIP2zOA/0.jpg)](https://www.youtube.com/watch?v=TUZ6bIP2zOA)
 
 # Pre-requisites
 1. Clone or download (and unzip) this GitHub repo. 
